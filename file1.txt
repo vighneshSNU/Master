@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Change 1
-=======
-Hello
->>>>>>> parent of 9473ef8 (First change)
+Hello again
